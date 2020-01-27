@@ -1,2 +1,2 @@
 # Sortowanie
-Sortowanie bombelkowe
+Sortowanie bombelkowe - z wizualizacją
